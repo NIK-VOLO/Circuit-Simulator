@@ -1,4 +1,7 @@
-# Circuit-Simulator
+Circuit-Simulator
+___________________________________________________________________________________________________________
+___________________________________________________________________________________________________________
+
 Simulates a logical circuit, where INPUTVAR is a source and OUTPUTVAR is the result of logical statements 
 
 This program takes in a .txt file as an argument
